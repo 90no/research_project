@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Conda environment (念のため)
+env/
+.conda/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data (必要に応じて調整)
+data/raw/
+data/processed/
+
+# Logs
+*.log
