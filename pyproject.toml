@@ -1,0 +1,12 @@
+[project]
+name = "mypkg"
+version = "0.1.0"
+description = "Research package"
+authors = [
+    {name = "Hiroaki KUWANO"}
+]
+requires-python = ">=3.11"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"

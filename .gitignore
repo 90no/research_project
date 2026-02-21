@@ -4,6 +4,9 @@ __pycache__/
 *.pyo
 *.pyd
 
+# Packaging metadata (setuptools editable install)
+*.egg-info/
+
 # Jupyter
 .ipynb_checkpoints/
 
